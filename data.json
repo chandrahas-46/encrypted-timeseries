@@ -1,0 +1,6 @@
+{
+    "names": ["Alice", "Bob", "Charlie", "David"],
+    "origins": ["A", "B", "C"],
+    "destinations": ["X", "Y", "Z"]
+}
+  
